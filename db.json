@@ -1,206 +1,28 @@
 {
-	"data": [{
-			"name": "Slade Koenraad",
-			"gender": "Male",
-			"dob": "8/18/2006",
-			"state": "Florida",
-			"salary": 49249
-		},
-		{
-			"name": "Con McGovern",
-			"gender": "Male",
-			"dob": "6/19/2000",
-			"state": "Indiana",
-			"salary": 98727
-		},
-		{
-			"name": "Salomone Grimsdale",
-			"gender": "Male",
-			"dob": "9/25/2006",
-			"state": "California",
-			"salary": 72739
-		},
-		{
-			"name": "Morlee Glendenning",
-			"gender": "Male",
-			"dob": "4/23/1993",
-			"state": "Tennessee",
-			"salary": 59240
-		},
-		{
-			"name": "Farley Regus",
-			"gender": "Male",
-			"dob": "8/25/1993",
-			"state": "Florida",
-			"salary": 51510
-		},
-		{
-			"name": "Aviva Bearblock",
-			"gender": "Female",
-			"dob": "10/28/2008",
-			"state": "Illinois",
-			"salary": 46720
-		},
-		{
-			"name": "Halie Shailer",
-			"gender": "Female",
-			"dob": "1/4/2003",
-			"state": "Florida",
-			"salary": 31919
-		},
-		{
-			"name": "Sisile Lorryman",
-			"gender": "Female",
-			"dob": "7/13/2008",
-			"state": "Florida",
-			"salary": 88775
-		},
-		{
-			"name": "Stacey Ferschke",
-			"gender": "Female",
-			"dob": "2/12/1998",
-			"state": "Washington",
-			"salary": 31155
-		},
-		{
-			"name": "Flinn Stormonth",
-			"gender": "Male",
-			"dob": "1/4/1994",
-			"state": "New York",
-			"salary": 31013
-		},
-		{
-			"name": "Kalinda Buney",
-			"gender": "Female",
-			"dob": "11/21/1980",
-			"state": "California",
-			"salary": 59644
-		},
-		{
-			"name": "Burk Kenealy",
-			"gender": "Male",
-			"dob": "7/31/1990",
-			"state": "Illinois",
-			"salary": 89488
-		},
-		{
-			"name": "Osmond Bainbrigge",
-			"gender": "Male",
-			"dob": "6/28/1984",
-			"state": "Arizona",
-			"salary": 41423
-		},
-		{
-			"name": "Leisha La Torre",
-			"gender": "Female",
-			"dob": "9/4/2007",
-			"state": "Arizona",
-			"salary": 91724
-		},
-		{
-			"name": "Rex Salvage",
-			"gender": "Male",
-			"dob": "5/27/2000",
-			"state": "New York",
-			"salary": 65175
-		},
-		{
-			"name": "Granger Antcliff",
-			"gender": "Male",
-			"dob": "11/22/1989",
-			"state": "Virginia",
-			"salary": 69267
-		},
-		{
-			"name": "Bryn Croney",
-			"gender": "Male",
-			"dob": "1/4/1988",
-			"state": "Texas",
-			"salary": 83475
-		},
-		{
-			"name": "Jyoti Peirpoint",
-			"gender": "Female",
-			"dob": "9/23/1996",
-			"state": "Massachusetts",
-			"salary": 73467
-		},
-		{
-			"name": "El Plowman",
-			"gender": "Male",
-			"dob": "5/4/2008",
-			"state": "California",
-			"salary": 88010
-		},
-		{
-			"name": "Dagny Sharnock",
-			"gender": "Male",
-			"dob": "12/2/1996",
-			"state": "California",
-			"salary": 60594
-		},
-		{
-			"name": "Evan Boulds",
-			"gender": "Male",
-			"dob": "3/27/2008",
-			"state": "Georgia",
-			"salary": 93570
-		},
-		{
-			"name": "Lucienne Beine",
-			"gender": "Female",
-			"dob": "11/2/1989",
-			"state": "Missouri",
-			"salary": 83149
-		},
-		{
-			"name": "Burnard Trime",
-			"gender": "Male",
-			"dob": "12/12/2008",
-			"state": "California",
-			"salary": 56200
-		},
-		{
-			"name": "Bing Simants",
-			"gender": "Male",
-			"dob": "1/1/1999",
-			"state": "Virginia",
-			"salary": 52009
-		},
-		{
-			"name": "Bruis Guilleton",
-			"gender": "Male",
-			"dob": "11/19/1982",
-			"state": "New Jersey",
-			"salary": 68408
-		},
-		{
-			"name": "Fiorenze Rebbeck",
-			"gender": "Female",
-			"dob": "4/7/2008",
-			"state": "Wisconsin",
-			"salary": 47816
-		},
-		{
-			"name": "Trina Corwood",
-			"gender": "Female",
-			"dob": "12/17/1983",
-			"state": "Florida",
-			"salary": 40130
-		},
-		{
-			"name": "Graehme Purdon",
-			"gender": "Male",
-			"dob": "3/13/1994",
-			"state": "California",
-			"salary": 94976
-		},
-		{
-			"name": "Aldric Scamwell",
-			"gender": "Male",
-			"dob": "6/4/1995",
-			"state": "Texas",
-			"salary": 67824
-		}
+	"data": [{"name":"Slade Koenraad","gender":"Male","dob":"8/18/2006","state":"Florida","salary":49249},
+{"name":"Con McGovern","gender":"Male","dob":"6/19/2000","state":"Indiana","salary":98727},
+{"name":"Salomone Grimsdale","gender":"Male","dob":"9/25/2006","state":"California","salary":72739},
+{"name":"Morlee Glendenning","gender":"Male","dob":"4/23/1993","state":"Tennessee","salary":59240},
+{"name":"Farley Regus","gender":"Male","dob":"8/25/1993","state":"Florida","salary":51510},
+{"name":"Aviva Bearblock","gender":"Female","dob":"10/28/2008","state":"Illinois","salary":46720},
+{"name":"Halie Shailer","gender":"Female","dob":"1/4/2003","state":"Florida","salary":31919},
+{"name":"Sisile Lorryman","gender":"Female","dob":"7/13/2008","state":"Florida","salary":88775},
+{"name":"Stacey Ferschke","gender":"Female","dob":"2/12/1998","state":"Washington","salary":31155},
+{"name":"Flinn Stormonth","gender":"Male","dob":"1/4/1994","state":"New York","salary":31013},
+{"name":"Kalinda Buney","gender":"Female","dob":"11/21/1980","state":"California","salary":59644},
+{"name":"Burk Kenealy","gender":"Male","dob":"7/31/1990","state":"Illinois","salary":89488},
+{"name":"Osmond Bainbrigge","gender":"Male","dob":"6/28/1984","state":"Arizona","salary":41423},
+{"name":"Leisha La Torre","gender":"Female","dob":"9/4/2007","state":"Arizona","salary":91724},
+{"name":"Rex Salvage","gender":"Male","dob":"5/27/2000","state":"New York","salary":65175},
+{"name":"Granger Antcliff","gender":"Male","dob":"11/22/1989","state":"Virginia","salary":69267},
+{"name":"Bryn Croney","gender":"Male","dob":"1/4/1988","state":"Texas","salary":83475},
+{"name":"Jyoti Peirpoint","gender":"Female","dob":"9/23/1996","state":"Massachusetts","salary":73467},
+{"name":"El Plowman","gender":"Male","dob":"5/4/2008","state":"California","salary":88010},
+{"name":"Dagny Sharnock","gender":"Male","dob":"12/2/1996","state":"California","salary":60594},
+{"name":"Evan Boulds","gender":"Male","dob":"3/27/2008","state":"Georgia","salary":93570},
+{"name":"Lucienne Beine","gender":"Female","dob":"11/2/1989","state":"Missouri","salary":83149},
+{"name":"Burnard Trime","gender":"Male","dob":"12/12/2008","state":"California","salary":56200},
+{"name":"Bing Simants","gender":"Male","dob":"1/1/1999","state":"Virginia","salary":52009},
+{"name":"Bruis Guilleton","gender":"Male","dob":"11/19/1982","state":"New Jersey","salary":68408}
 	]
 }
